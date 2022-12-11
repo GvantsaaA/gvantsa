@@ -1,0 +1,24 @@
+body {
+    background-color: #1F314F;
+}
+
+h2 {
+    color: #1F314F;
+    height: 56px;
+    width: 288px;
+    text-align: center;
+}
+
+img {
+    background-color: #1F314F;
+}
+
+img {
+    padding: 60px;
+    border-radius: 10px;
+}
+
+span {
+    color:  grey;
+}
+
